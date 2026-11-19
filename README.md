@@ -1,10 +1,6 @@
 ## Hi there 👋
 I'm Ronas Tiwari
 
-- 🔭 I’m currently working on something crazy 😎👌🔥
-- 🌱 I’m currently learning TypeScript/NextJs/ReactNative 🕵
-- 💬 Ask me about JavaScript/ReactJs and Messi 𓃵
-
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronastiwari1224) 
